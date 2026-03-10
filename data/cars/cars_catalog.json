@@ -1,0 +1,168 @@
+[
+  {
+    "id": "car-1",
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 2025,
+    "body_type": "sedan",
+    "base_price_usd": 23000,
+    "countries_available": ["US", "CA", "UK", "DE", "IN"],
+    "fuel_type": "petrol",
+    "transmission": "automatic"
+  },
+  {
+    "id": "car-2",
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2025,
+    "body_type": "sedan",
+    "base_price_usd": 25000,
+    "countries_available": ["US", "CA", "UK", "AU"],
+    "fuel_type": "petrol",
+    "transmission": "automatic"
+  },
+  {
+    "id": "car-3",
+    "make": "Tesla",
+    "model": "Model 3",
+    "year": 2025,
+    "body_type": "sedan",
+    "base_price_usd": 42000,
+    "countries_available": ["US", "CA", "UK", "DE"],
+    "fuel_type": "electric",
+    "transmission": "automatic"
+  },
+  {
+    "id": "car-4",
+    "make": "Hyundai",
+    "model": "Ioniq 6",
+    "year": 2024,
+    "body_type": "sedan",
+    "base_price_usd": 38000,
+    "countries_available": ["US", "UK", "DE", "KR"],
+    "fuel_type": "electric",
+    "transmission": "automatic"
+  },
+  {
+    "id": "car-5",
+    "make": "Kia",
+    "model": "Sportage",
+    "year": 2024,
+    "body_type": "suv",
+    "base_price_usd": 32000,
+    "countries_available": ["US", "CA", "UK", "DE", "IN"],
+    "fuel_type": "petrol",
+    "transmission": "automatic"
+  },
+  {
+    "id": "car-6",
+    "make": "Volkswagen",
+    "model": "Tiguan",
+    "year": 2023,
+    "body_type": "suv",
+    "base_price_usd": 34000,
+    "countries_available": ["US", "CA", "DE", "FR"],
+    "fuel_type": "diesel",
+    "transmission": "automatic"
+  },
+  {
+    "id": "car-7",
+    "make": "BMW",
+    "model": "X3",
+    "year": 2025,
+    "body_type": "suv",
+    "base_price_usd": 52000,
+    "countries_available": ["US", "UK", "DE", "FR", "AU"],
+    "fuel_type": "petrol",
+    "transmission": "automatic"
+  },
+  {
+    "id": "car-8",
+    "make": "Mercedes-Benz",
+    "model": "GLC",
+    "year": 2024,
+    "body_type": "suv",
+    "base_price_usd": 56000,
+    "countries_available": ["US", "UK", "DE", "FR"],
+    "fuel_type": "petrol",
+    "transmission": "automatic"
+  },
+  {
+    "id": "car-9",
+    "make": "Maruti Suzuki",
+    "model": "Baleno",
+    "year": 2025,
+    "body_type": "hatchback",
+    "base_price_usd": 12000,
+    "countries_available": ["IN"],
+    "fuel_type": "petrol",
+    "transmission": "manual"
+  },
+  {
+    "id": "car-10",
+    "make": "Tata",
+    "model": "Punch EV",
+    "year": 2025,
+    "body_type": "suv",
+    "base_price_usd": 18000,
+    "countries_available": ["IN"],
+    "fuel_type": "electric",
+    "transmission": "automatic"
+  },
+  {
+    "id": "car-11",
+    "make": "Skoda",
+    "model": "Octavia",
+    "year": 2023,
+    "body_type": "sedan",
+    "base_price_usd": 28000,
+    "countries_available": ["UK", "DE", "FR", "IN"],
+    "fuel_type": "petrol",
+    "transmission": "automatic"
+  },
+  {
+    "id": "car-12",
+    "make": "Renault",
+    "model": "Megane E-Tech",
+    "year": 2024,
+    "body_type": "hatchback",
+    "base_price_usd": 35000,
+    "countries_available": ["FR", "DE", "UK"],
+    "fuel_type": "electric",
+    "transmission": "automatic"
+  },
+  {
+    "id": "car-13",
+    "make": "Ford",
+    "model": "Puma",
+    "year": 2024,
+    "body_type": "suv",
+    "base_price_usd": 30000,
+    "countries_available": ["UK", "DE", "FR"],
+    "fuel_type": "petrol",
+    "transmission": "automatic"
+  },
+  {
+    "id": "car-14",
+    "make": "Nissan",
+    "model": "Qashqai",
+    "year": 2023,
+    "body_type": "suv",
+    "base_price_usd": 31000,
+    "countries_available": ["UK", "DE", "FR", "AU"],
+    "fuel_type": "petrol",
+    "transmission": "automatic"
+  },
+  {
+    "id": "car-15",
+    "make": "MG",
+    "model": "ZS EV",
+    "year": 2024,
+    "body_type": "suv",
+    "base_price_usd": 26000,
+    "countries_available": ["UK", "IN", "AU"],
+    "fuel_type": "electric",
+    "transmission": "automatic"
+  }
+]
+
