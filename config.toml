@@ -1,0 +1,12 @@
+[app]
+openai_model = "gpt-4.1-mini"
+openai_embedding_model = "text-embedding-3-small"
+default_country = "US"
+default_annual_rate = 6.5
+default_loan_years = 5
+
+# Paths are relative to project root by default. You can override them here if needed.
+rag_docs_path = "data/rag"
+car_catalog_path = "data/cars/cars_catalog.json"
+vector_store_path = "data/vectorstore"
+log_level = "INFO"

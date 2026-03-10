@@ -1,0 +1,13 @@
+dotenv
+pydantic
+uvicorn
+fastapi
+backoff
+langchain
+langgraph
+langchain-openai
+langchain-community
+chromadb
+openai
+tiktoken
+streamlit

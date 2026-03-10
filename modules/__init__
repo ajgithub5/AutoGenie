@@ -1,0 +1,10 @@
+"""
+This is Autogenie backend package.
+It consists: 
+1. LangGraph based agent orchestration
+2. RAG components
+3. Automobile recommendation service
+4. Financing options and calculations
+5. Fast API application
+6. Configuration python file
+"""
